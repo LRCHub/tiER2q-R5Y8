@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "八十八鍵の宇宙",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-22T06:15:28.162886Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "八十八鍵の宇宙",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/01_八十八鍵の宇宙_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "八十八鍵の宇宙 - Universe of 88 Keys",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/02_八十八鍵の宇宙_-_Universe_of_88_Keys_Orangestar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "八十八鍵の宇宙",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_八十八鍵の宇宙_Orangestar.txt"
+    }
+  ]
+}
